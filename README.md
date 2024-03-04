@@ -13,21 +13,17 @@ In addition to my technical skills, I'm proficient in utilizing essential develo
 Driven by a curiosity for emerging technologies and a commitment to continuous learning, I'm always eager to explore new frameworks, tools, and methodologies to enhance my development capabilities.</p>
 
 <h3 align="left">Skills :</h3>
-<p align="left">HTML5 | CSS3 | Javascript | React.js | Redux | Node.js | Express.js | MongoDB <br>
-Mongoose | Git | Github | NPM | Netlify | Vercel | Postman | Visual Studio Code</p> <br>
+<b>Languages :</b> HTML5, CSS3, Javascript <br>
+<b>Technologies :</b> React.js, Redux, Node.js, Express.js, Socket.io, MongoDB, Mongoose <br>
+<b>Tools :</b> Git, Github, NPM, Netlify, Vercel, Postman, Visual Studio Code <br> <br>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp; <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> </a> &nbsp; <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a> &nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="npm" width="40" height="40"/> </a> &nbsp; <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; <a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a> &nbsp; <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> </a> &nbsp; <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Projects :</h3>
-- 1.
-
-- 📫 How to reach me : <br>
-  Email : **patilshivam156@gmail.com** <br>
-  Phone : +91-7218123495
-
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivampatil156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivampatil156" height="30" width="40" /></a>
-</p>
+<a href="myFile.js" download>Click to Download</a>
+<h3>How to reach me :</h3>
+    Email : <a href="mailto:patilshivam156@gmail.com">patilshivam156@gmail.com</a> <br>
+    Phone : +91-7218123495 <br>
+    LinkedIn : <a href="https://linkedin.com/in/shivampatil156" target="blank">https://www.linkedin.com/in/shivampatil156</a>
 
 
 
