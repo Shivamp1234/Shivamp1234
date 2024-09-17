@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Patil</h1>
-<h3 align="center">A Front End Developer</h3>
+<h3 align="center">A Front-End Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 <h3 align="left">About :</h3>
