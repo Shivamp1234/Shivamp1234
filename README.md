@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 <h3 align="left">About :</h3>
-<p align="left">Welcome to my Github profile! I’m a passionate Frontend Developer <br> with a strong focus on creating dynamic and responsive web applications. I specialize in transforming designs into code using HTML, CSS, and JavaScript, and I leverage React.js to build interactive user interfaces. <br> I'm always eager to learn new technologies and take on exciting challenges. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss frontend development!</p>
+<p align="left">Welcome to my Github profile! I’m a passionate Frontend Developer <br> with a strong focus on creating dynamic and responsive web applications. <br> I specialize in transforming designs into code using HTML, CSS, and JavaScript, and I leverage React.js to build interactive user interfaces. <br> I'm always eager to learn new technologies and take on exciting challenges. Feel free to explore my repositories, and don't hesitate to <br> reach out if you'd like to collaborate or discuss frontend development!</p>
 
 <h3 align="left">Skills :</h3>
 <b>Languages :</b> HTML, CSS, Javascript <br>
